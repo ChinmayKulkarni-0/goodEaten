@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856708757647",
+    "project_id": "goodeatin-19ce8",
+    "storage_bucket": "goodeatin-19ce8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856708757647:android:345e92dffa41b8129898fa",
+        "android_client_info": {
+          "package_name": "com.example.food_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856708757647-9oqqnhrk1i20i2pirengkt6prulltju0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeqQ9wAb35rgOdFaJj1wyhivW5eUIi59U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856708757647-9oqqnhrk1i20i2pirengkt6prulltju0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
